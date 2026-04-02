@@ -1,5 +1,6 @@
 # Running Key Cipher
-
+                       
+Shreya -23011102095 IOTB 
 A Python implementation of the Running Key Cipher using **djb2 hashing** and an **LCG key stream generator**.
 
 ---
